@@ -65,7 +65,7 @@ module.exports = yeoman.Base.extend({
             this.template('dummy.txt', 'dummy.txt', this, {});
 
             // Add nhstheme
-            jhipsterFunc.copyTemplate(this.webappDir + 'app/css/_nhstheme.css', this.webappDir + 'app/css/nhstheme.css', 'template', this, null, true);
+            jhipsterFunc.copyTemplate(this.webappDir + 'css/_nhstheme.css', this.webappDir + 'css/nhstheme.css', 'template', this, null, true);
 
         },
 
