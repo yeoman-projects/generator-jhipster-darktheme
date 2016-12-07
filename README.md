@@ -27,6 +27,8 @@ npm update -g generator-jhipster-darktheme
 
 # Usage
 
+
+
 # License
 
 
