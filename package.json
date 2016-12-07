@@ -1,6 +1,6 @@
 {
     "name": "generator-jhipster-darktheme",
-    "version": "0.0.7",
+    "version": "0.0.8",
     "description": "sample dark theme",
     "keywords": [
         "yeoman-generator",

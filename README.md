@@ -25,6 +25,11 @@ To update this module:
 npm update -g generator-jhipster-darktheme
 ```
 
+To install yo module 
+```bash
+yo jhipster-darktheme
+```
+
 # Usage
 
 
